@@ -11,3 +11,7 @@
 | Last Friday | Munk, Fate, Des | @AITut Sync 6/13 | - |
 | Monday | Munk, Fate | - | 50 mins |
 | Monday | Munk | Project planning | 30 
+|6/19|Des|Onboarding and Backend Function development and Database setup|8 hours
+|6/17|Yuliia| Web Design : 1.5 hours, Auth: 4 hours (https://github.com/BitSavvy-Solutions/AITut-frontend/issues/2)|5.5 hours
+|6/18|Fate|[Onboard to react-i18](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/9)|2 hours
+|6/19|Fate, Yuliia, Munk, Des|Standup|35 mins
