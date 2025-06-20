@@ -15,3 +15,6 @@
 |6/17|Yuliia| Web Design : 1.5 hours, Auth: 4 hours (https://github.com/BitSavvy-Solutions/AITut-frontend/issues/2)|5.5 hours
 |6/18|Fate|[Onboard to react-i18](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/9)|2 hours
 |6/19|Fate, Yuliia, Munk, Des|Standup|35 mins
+|6/19| Munk | Debug react i18n dependency, and deploy agent func| 2 hours
+|6/19|Des| Function upload | 50 mins
+|6/20|Des, Yul, Munk|Standup|20 mins
