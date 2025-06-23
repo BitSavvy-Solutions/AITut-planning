@@ -18,3 +18,7 @@
 |6/19| Munk | Debug react i18n dependency, and deploy agent func| 2 hours
 |6/19|Des| Function upload | 50 mins
 |6/20|Des, Yul, Munk|Standup|20 mins
+|6/21|Fate|[Localization support](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/3))| 2 hours
+|6/23|Yuliia| [Integrate Frontend with Backend APIs](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/12)
+|6/23|Munk, Yuliia, Fate|Standup|20 mins
+|6/23|Munk, Yuliia|AI Agent onboarding|24 mins
