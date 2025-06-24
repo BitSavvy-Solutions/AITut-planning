@@ -22,3 +22,8 @@
 |6/23|Yuliia| [Integrate Frontend with Backend APIs](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/12)
 |6/23|Munk, Yuliia, Fate|Standup|20 mins
 |6/23|Munk, Yuliia|AI Agent onboarding|24 mins
+|6/23|Munk, Yuliia|AI Architecture Onboarding| 30 mins
+|6/23|Munk | Anush Onboarding Data annotation| 30 mins
+|6/23|Munk| Agentic AI Dev| 30 mins
+|6/24|Yuliia| [Backend Integ](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/12)|50 mins
+|6/24|Yuliia, Fate, Munk| Standup | 12 mins
