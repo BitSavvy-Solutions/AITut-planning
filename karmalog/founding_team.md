@@ -27,3 +27,7 @@
 |6/23|Munk| Agentic AI Dev| 30 mins
 |6/24|Yuliia| [Backend Integ](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/12)|50 mins
 |6/24|Yuliia, Fate, Munk| Standup | 12 mins
+|6/24|Munk|Video upload| 5 mins
+|6/25|Fate|Localization Hindi and button setup|20 mins
+|6/24|Des|[Backend development and testing Create API](https://github.com/BitSavvy-Solutions/AITut-backend/issues/6)|1 h 30 mins
+|6/25|Munk, Des, Fate|Standup |22 mins
