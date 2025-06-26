@@ -31,3 +31,8 @@
 |6/25|Fate|Localization Hindi and button setup|20 mins
 |6/24|Des|[Backend development and testing Create API](https://github.com/BitSavvy-Solutions/AITut-backend/issues/6)|1 h 30 mins
 |6/25|Munk, Des, Fate|Standup |22 mins
+|6/26|Des|[User profile API](https://github.com/BitSavvy-Solutions/AITut-backend/issues/7)|1 hour 10 mins
+|6/25|Fate|Localization Visual changes| 50 mins
+|6/25|Munk|Agent frontend integration and design and domain setup|3 hours
+|6/26|Yuliia|Backend Create User integration| 2 hours
+|6/26|Des, Munk, Fate, Yuliia|Standup|51 mins
