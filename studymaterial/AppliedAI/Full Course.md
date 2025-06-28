@@ -80,6 +80,7 @@ Week 8: Chatbot Memory and Context Management
 - Implementing context-based learning in the chatbot
 - Ethics Topic: Data retention and user privacy
 - Homework: Enhance the chatbot with memory capabilities
+
 🎥 [Lecture Video + Transcript – Feb 12, 2025](https://github.com/...)
 
 Week 9: AI Agents and Image Generation 
