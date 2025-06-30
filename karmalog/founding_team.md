@@ -36,3 +36,7 @@
 |6/25|Munk|Agent frontend integration and design and domain setup|3 hours
 |6/26|Yuliia|Backend Create User integration| 2 hours
 |6/26|Des, Munk, Fate, Yuliia|Standup|51 mins
+|6/30|Yuliia|Whitelisting Google Logins| 30 mins
+|6/30|Yuliia|Redirect URL|2 hours
+|6/28|Fate|Localization into 3 languages|15 mins
+|6/30|Fate, Munk, Yuliia|Standup|25 mins
