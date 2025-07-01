@@ -40,3 +40,8 @@
 |6/30|Yuliia|Redirect URL|2 hours
 |6/28|Fate|Localization into 3 languages|15 mins
 |6/30|Fate, Munk, Yuliia|Standup|25 mins
+|6/28|Des|User profile api setup| 2 hours 20 mins
+|6/30|Des|Setup courses api DB collection| 10 mins
+|6/30|Fate|Favicon Icon update|30 mins
+|7/1|Des. Fate, Munk| Standup| 20 mins
+|7/1|Des, Munk|Courses Data Modelling|18 mins
