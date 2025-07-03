@@ -45,3 +45,6 @@
 |6/30|Fate|Favicon Icon update|30 mins
 |7/1|Des. Fate, Munk| Standup| 20 mins
 |7/1|Des, Munk|Courses Data Modelling|18 mins
+|7/2|Des|Basic User Profile API - Create|1 h 20 mins
+|7/3|Yuliia|Custom Redirect for Prod, Staging and Local|30 
+|7/3|Yuliia, Des, Munk|Standup|20 mins
