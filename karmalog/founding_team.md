@@ -48,3 +48,8 @@
 |7/2|Des|Basic User Profile API - Create|1 h 20 mins
 |7/3|Yuliia|Custom Redirect for Prod, Staging and Local|30 
 |7/3|Yuliia, Des, Munk|Standup|20 mins
+|7/4|Des|Data Model design for Courses, Modules and Chapters| 10 mins
+|7/4|Fate|Icon change|5 mins
+|7/3|Munk|Whitelist Microsoft logins|5 mins
+|7/3|Munk, Jul|Merge branches into dev|45 mins
+|7/4|Munk, Jul, Des, Fate|Standup|27 mins
