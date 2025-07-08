@@ -53,3 +53,7 @@
 |7/3|Munk|Whitelist Microsoft logins|5 mins
 |7/3|Munk, Jul|Merge branches into dev|45 mins
 |7/4|Munk, Jul, Des, Fate|Standup|27 mins
+|7/8|Fate|Agent backend Language support| 40 mins
+|7/6|Munk|Agent streaming output and Architecture design| 1 hour
+|7/8|Jul|Custom Redirect for the Prod, Staging and Local environments|1 hour 50 mins
+|7/8|Jul, Fate, Munk| Standup| 17 mins
