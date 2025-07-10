@@ -57,3 +57,6 @@
 |7/6|Munk|Agent streaming output and Architecture design| 1 hour
 |7/8|Jul|Custom Redirect for the Prod, Staging and Local environments|1 hour 50 mins
 |7/8|Jul, Fate, Munk| Standup| 17 mins
+|7/10|Des|[Courses API](https://github.com/BitSavvy-Solutions/AITut-planning/issues/4)| 1 Hour
+|7/10|Jul|[Frontend Backend Integration](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/12)|1 hour
+|7/10|Jul, Munk, Des| Standup|15 mins
