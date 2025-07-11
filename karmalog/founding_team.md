@@ -60,3 +60,8 @@
 |7/10|Des|[Courses API](https://github.com/BitSavvy-Solutions/AITut-planning/issues/4)| 1 Hour
 |7/10|Jul|[Frontend Backend Integration](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/12)|1 hour
 |7/10|Jul, Munk, Des| Standup|15 mins
+|7/9|Fate|[Fix RTL issues in Arabic Localization](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/15)|1 hour
+|7/9|Fate|[Localise the agent welcome message and input bar](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/26)|40 mins
+|7/9|Fate|[Fix Phone display](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/23)|25 mins
+|7/11|Fate| [Add Markdown support to agent chat](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/30)|30 mins
+|7/11|Fate, Munk|Standup and CORS debugging | 35 mins
