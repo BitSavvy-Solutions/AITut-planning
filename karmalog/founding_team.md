@@ -65,3 +65,9 @@
 |7/9|Fate|[Fix Phone display](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/23)|25 mins
 |7/11|Fate| [Add Markdown support to agent chat](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/30)|30 mins
 |7/11|Fate, Munk|Standup and CORS debugging | 35 mins
+|7/14|Des|[Course API - Basic Structure](https://github.com/BitSavvy-Solutions/AITut-planning/issues/4)|55 mins
+|7/14|Munk|LLM Streaming output|4.5 hours
+|7/14|Munk|Enable Audio Support for interaction|1 hour
+|7/14|Jul|[Integrate Frontend with Backend APIs for User profile](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/12)|1 hour
+|7/14|Jul|Fixed Dashboard refresh bug|15 mins
+|7/15|Jul, Des, Munk| Standup|50 mins
