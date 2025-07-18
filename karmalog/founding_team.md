@@ -72,6 +72,7 @@
 |7/14|Jul|Fixed Dashboard refresh bug|15 mins
 |7/15|Jul, Des, Munk| Standup|50 mins
 |7/15|Des|Courses API completion|45 mins
-|7/15|Fate|[Collection of fixes/enhancements for the chat experience](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/33)|3 hours + 3 hours 20 mins
+|7/15|Fate|[Collection of fixes/enhancements for the chat experience](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/33)|3 hours +
+|7/15| Fate [https://github.com/BitSavvy-Solutions/AITut-frontend/issues/32]  3 hours 20 mins
 |7/15|Munk|Audio input integration|2.5 hours
 |7/15|Jul|Dashboard view for courses brainstorming|1.5 hours
