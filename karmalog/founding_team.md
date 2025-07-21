@@ -76,3 +76,6 @@
 |7/15| Fate [https://github.com/BitSavvy-Solutions/AITut-frontend/issues/32]  3 hours 20 mins
 |7/15|Munk|Audio input integration|2.5 hours
 |7/15|Jul|Dashboard view for courses brainstorming|1.5 hours
+|7/17|Munk|Added LLM Selection to agent|1 hour 10 mins
+|7/20|Jul|Frontend integration for Courses, modules and chapters| 2 hours
+|7/21|Jul, Des, Munk| Standup|24 mins
