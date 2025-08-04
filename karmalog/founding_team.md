@@ -79,3 +79,7 @@
 |7/17|Munk|Added LLM Selection to agent|1 hour 10 mins
 |7/20|Jul|Frontend integration for Courses, modules and chapters| 2 hours
 |7/21|Jul, Des, Munk| Standup|24 mins
+|8/3|Munk|[Separate Agent from AITut and Modularize it](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/40)|3 hours
+|8/1|Des|[Integrate User profile api with Agent backend](https://github.com/BitSavvy-Solutions/AITut-agentbackend/issues/10)|1 hour
+|8/3|Jul|[Integrate Frontend with Backend for Courses API](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/29)|1 hour
+|8/4|Des, Munk, Jul|Standup and Demos|1 hour
