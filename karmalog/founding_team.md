@@ -83,3 +83,8 @@
 |8/1|Des|[Integrate User profile api with Agent backend](https://github.com/BitSavvy-Solutions/AITut-agentbackend/issues/10)|1 hour
 |8/3|Jul|[Integrate Frontend with Backend for Courses API](https://github.com/BitSavvy-Solutions/AITut-frontend/issues/29)|1 hour
 |8/4|Des, Munk, Jul|Standup and Demos|1 hour
+|8/8|Des, Munk, Jul|Demo and release planning| 1.5 hours
+|8/11|Jul|Integration with Courses API|1.5 hours
+|8/11|Jul|Courses UX fixes|20 mins
+|8/11|Munk|Slicing Pie research for revenue distribution|30 mins
+|8/12|Munk, Jul|Standup| 25 mins
