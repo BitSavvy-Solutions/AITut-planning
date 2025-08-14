@@ -88,3 +88,5 @@
 |8/11|Jul|Courses UX fixes|20 mins
 |8/11|Munk|Slicing Pie research for revenue distribution|30 mins
 |8/12|Munk, Jul|Standup| 25 mins
+|8/13|Des|Debugging tools `get_user_id` & `get_user_by_id` detection|3 hours
+|8/14|Des, Munk|Agent debugging and prod push| 55 mins
