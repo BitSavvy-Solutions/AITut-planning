@@ -92,3 +92,8 @@
 |8/14|Des, Munk|Agent debugging and prod push| 55 mins
 |8/20|Des|MCP Setup | 30 + 40 mins
 |8/20|Munk|MCP Setup | 40 mins
+|8/20|Munk|[Setup basic Karmalog project](https://github.com/BitSavvy-Solutions/AITut-planning/issues/11)|90 mins
+|8/20|Munk|Investigate Ethical alternatives to serverless function hosting|30 mins
+|8/20|Jul|Materials API integration|30 mins
+|8/21|Jul, Des, Munk|Standup|20 mins
+
