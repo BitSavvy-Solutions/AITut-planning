@@ -96,4 +96,9 @@
 |8/20|Munk|Investigate Ethical alternatives to serverless function hosting|30 mins
 |8/20|Jul|Materials API integration|30 mins
 |8/21|Jul, Des, Munk|Standup|20 mins
-
+|8/21|Jul, Munk|Materials Markdown support and Progress API discussion|50 mins
+|8/21|Munk|Azure Blob Storage setup|30 mins
+|8/21|Munk|Progress API setup|30 mins
+|8/22|Des|Adhoc: Update Readme.md for Aitut-backend|15 mins
+|8/21|Jul|Materials markdown support|120 mins
+|8/22|Jul, Des, Munk|Standup|45 mins
