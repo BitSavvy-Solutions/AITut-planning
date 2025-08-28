@@ -102,3 +102,4 @@
 |8/22|Des|Adhoc: Update Readme.md for Aitut-backend|15 mins
 |8/21|Jul|Materials markdown support|120 mins
 |8/22|Jul, Des, Munk|Standup|45 mins
+|8/25|Jul|Markdown support on Materials|10 mins
