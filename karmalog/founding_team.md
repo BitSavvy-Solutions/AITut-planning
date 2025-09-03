@@ -107,3 +107,7 @@
 |9/1|Munk|Integrate frontend course editor with backend (content, material, chapter, modules api)| 2 hours 15 mins
 |8/31|Jul|Youtube video support on Markdown content|2 hours
 |9/2|Munk, Jul|Standup| 40 mins
+|9/2|Des|App and Page specific AI response|1 hour 30 mins
+|9/2|Munk|Fix course editor|1 hour 45 mins
+|9/3|Munk, Des|Caching discussion|30 mins
+|9/3|Munk, Des, Jul|Standup|30 mins
