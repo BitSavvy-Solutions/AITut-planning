@@ -111,3 +111,6 @@
 |9/2|Munk|Fix course editor|1 hour 45 mins
 |9/3|Munk, Des|Caching discussion|30 mins
 |9/3|Munk, Des, Jul|Standup|30 mins
+|9/4|Des|Page specific response testing| 1 hour
+|9/4|Jul|Started implementing Progress API|30 mins
+|9/4|Munk, Des, Jul|Standup|30 mins
