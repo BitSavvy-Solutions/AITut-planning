@@ -114,3 +114,6 @@
 |9/4|Des|Page specific response testing| 1 hour
 |9/4|Jul|Started implementing Progress API|30 mins
 |9/4|Munk, Des, Jul|Standup|30 mins
+|9/4|Munk|Karmalog API implementation| 40 mins
+|9/4|Munk|Website frontpage update| 30 mins
+|9/5|Munk, Des| 1:1| 1 hour
