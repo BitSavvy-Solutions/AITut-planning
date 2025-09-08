@@ -117,3 +117,7 @@
 |9/4|Munk|Karmalog API implementation| 40 mins
 |9/4|Munk|Website frontpage update| 30 mins
 |9/5|Munk, Des| 1:1| 1 hour
+|9/7|Des|Page specific response| 3 hours
+|9/8|Jul|Integrate progress API| 50 mins
+|9/8|Jul, Des, Munk|Standup| 60 mins
+|9/8|Munk|Creating Full stack course| 60 mins
