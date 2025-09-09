@@ -121,3 +121,4 @@
 |9/8|Jul|Integrate progress API| 50 mins
 |9/8|Jul, Des, Munk|Standup| 60 mins
 |9/8|Munk|Creating Full stack course| 60 mins
+|9/8|Munk|Course update does not refresh page|60 mins
