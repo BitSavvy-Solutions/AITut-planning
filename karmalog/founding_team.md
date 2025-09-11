@@ -122,3 +122,4 @@
 |9/8|Jul, Des, Munk|Standup| 60 mins
 |9/8|Munk|Creating Full stack course| 60 mins
 |9/8|Munk|Course update does not refresh page|60 mins
+|9/11|Des|Investigate Caching| 1 hour
