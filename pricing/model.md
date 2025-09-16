@@ -18,7 +18,7 @@ Our tiers are named to reflect the journey of our community members, from explor
 
 We offer several tiers to provide flexibility and value. All prices are shown in Canadian Dollars (CAD) and approximated in Swiss Francs (CHF).
 
-| Feature | **Explorer Plan** | **Creator Plan (Recommended)** | **Champion Plan** |
+| Feature | **Explorer Plan** | **Creator Plan (Recommended)** | **Builder Plan** |
 | :--- | :--- | :--- | :--- |
 | **Monthly Cost** | **$5.00 CAD** / `~2.87 CHF` | **$10.00 CAD** / `~5.74 CHF` | **$20.00 CAD** / `~11.48 CHF` |
 | **Fixed Platform Contribution** | $2.00 CAD / `~1.15 CHF` | $2.00 CAD / `~1.15 CHF` | $2.00 CAD / `~1.15 CHF` |
