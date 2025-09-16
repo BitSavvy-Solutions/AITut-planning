@@ -14,7 +14,7 @@ Our tiers are named to reflect the journey of our community members, from explor
 
 ---
 
-## Per-Student Subscription Tiers
+## Per-User Subscription Tiers
 
 We offer several tiers to provide flexibility and value. All prices are shown in Canadian Dollars (CAD) and approximated in Swiss Francs (CHF).
 
@@ -28,18 +28,18 @@ We offer several tiers to provide flexibility and value. All prices are shown in
 | &nbsp;&nbsp;&nbsp;Approx. Hosting & Data Cost | ~$1.50 CAD / `~0.86 CHF` | ~$1.50 CAD / `~0.86 CHF` | ~$1.50 CAD / `~0.86 CHF` |
 | &nbsp;&nbsp;&nbsp;**Remaining AI Credits** | **~$1.50 CAD** / `~0.86 CHF` | **~$6.50 CAD** / `~3.73 CHF` | **~$16.50 CAD** / `~9.47 CHF` |
 
-**Why the Creator Plan Offers the Best Value:** As you can see, the Creator Plan provides significantly more AI credit for the same fixed $2 platform contribution. It is the most cost-effective option for active courses, minimizing the need for frequent top-ups and providing students with ample resources.
+**Why the Creator Plan Offers the Best Value:** As you can see, the Creator Plan provides significantly more AI credit for the same fixed $2 platform contribution. It is the most cost-effective option for active courses, minimizing the need for frequent top-ups and providing learners with ample resources.
 
 ---
 
 ## Credit Top-Up System
 
-If a student's credit balance runs low, they can easily top-up their account. Our top-up system is designed to be simple and transparent.
+If a learner's credit balance runs low, they can easily top-up their account. Our top-up system is designed to be simple and transparent.
 
 *   A fixed **$1.00 CAD / `~0.574 CHF`** Platform Contribution fee is applied to each individual top-up transaction to cover processing.
-*   The remainder of the top-up amount is added directly to the student's Usable Platform Credits balance.
+*   The remainder of the top-up amount is added directly to the learner's Usable Platform Credits balance.
 
-**Example:** A `10.00 CHF` top-up would result in `~9.43 CHF` being added to the student's credit balance.
+**Example:** A `10.00 CHF` top-up would result in `~9 CHF` being added to the learner's credit balance.
 
 ---
 
