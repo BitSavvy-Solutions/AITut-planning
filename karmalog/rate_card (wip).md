@@ -17,7 +17,7 @@ The rate doubles over the year for delayed payment.
 #### **Level 1: Novice Builder**
 *   **Who they are:** An individual new to the professional tech environment. This could be a non-technical operations hire, a marketing associate helping with data entry, or someone in a dedicated learning-to-code role who is not yet contributing to the codebase. Their primary currency is curiosity and potential.
 *   **Responsibilities:**
-    *   **Learning:** Actively absorbing company culture, tools, and processes.
+    *   **Learning:** Actively absorbing project culture, tools, and processes.
     *   **Task Execution:** Handling well-defined, granular tasks (e.g., data cleaning, basic QA testing, content population) under direct supervision.
     *   **Support:** Providing support to the team on administrative or logistical tasks.
 *   **Expectations:** To be proactive in learning, ask thoughtful questions, and demonstrate reliability in completing assigned tasks. They are not expected to make independent technical decisions.
@@ -54,13 +54,13 @@ The rate doubles over the year for delayed payment.
     *   **Complex Problem Solving:** Architecting and leading the implementation of solutions to our most complex technical challenges.
     *   **Mentoring Leadership:** Mentoring Skilled Builders and ensuring high technical standards across multiple teams.
     *   **Business Alignment:** Translating complex business requirements into robust technical plans.
-*   **Expectations:** To have a significant impact on the company's technical health and velocity. They are expected to be a source of truth for their domain.
+*   **Expectations:** To have a significant impact on the project's technical health and velocity. They are expected to be a source of truth for their domain.
 
 #### **Level 6: Master Builder (~Principal SDE)**
-*   **Who they are:** The company's top technical authority (e.g., CTO/CEO/CPO). They set the overarching technical vision and are ultimately responsible for the company's technical choices and their alignment with business goals.
+*   **Who they are:** The project's top technical authority (e.g., CTO/CEO/CPO). They set the overarching technical vision and are ultimately responsible for the project's technical choices and their alignment with business goals.
 *   **Responsibilities:**
-    *   **Company-Wide Vision:** Setting the long-term technical vision and strategy for the entire company.
+    *   **project-Wide Vision:** Setting the long-term technical vision and strategy for the entire project.
     *   **Architectural Oversight:** Making final decisions on core technologies, architectural patterns, and platform choices.
-    *   **Stakeholder Leadership:** Articulating the technical vision to investors, partners, and the entire company.
+    *   **Stakeholder Leadership:** Articulating the technical vision to investors, partners, and the entire project.
     *   **Cultivating Excellence:** Responsible for instilling a culture of high engineering standards, innovation, and craftsmanship from the top down.
 *   **Expectations:** To ensure that the technology we build not only solves today's problems but also positions us to win in the market in the future. They are the ultimate owner of our technical debt and our technical future.
