@@ -1,11 +1,11 @@
-| Power of 2 | Value (Satoshi)  | CAD (approx)     | CHF  (approx)    | MXN  (approx)     | Title
-|------------|--------|----------|----------|-----------|-|
-| 2¹¹        | 2048   | 3.13     | 1.82     | 129.23    | Novice Builder
-| 2¹²        | 4096   | 6.25     | 3.64     | 258.46    | Apprentice Builder
-| 2¹³        | 8192   | 12.50    | 7.29     | 516.91    | Competent Builder
-| 2¹⁴        | 16384  | 25.00    | 14.57    | 1,033.83  | Skilled Builder
-| 2¹⁵        | 32768  | 50.00    | 29.15    | 2,067.65  | Expert Builder
-| 2¹⁶        | 65536  | 100.00   | 58.29    | 4,135.30  | Master Builder
+| Power of 2 | Value (Satoshi) | CAD (approx) | CHF (approx) | MXN (approx) | PKR (approx on 24/9/25) | Title |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2¹¹ | 2048 | 3.13 | 1.82 | 129.23 | 658.34 | Novice Builder |
+| 2¹² | 4096 | 6.25 | 3.64 | 258.46 | 1,316.68 | Apprentice Builder |
+| 2¹³ | 8192 | 12.50 | 7.29 | 516.91 | 2,633.36 | Competent Builder |
+| 2¹⁴ | 16384 | 25.00 | 14.57 | 1,033.83 | 5,266.71 | Skilled Builder |
+| 2¹⁵ | 32768 | 50.00 | 29.15 | 2,067.65 | 10,533.43 | Expert Builder |
+| 2¹⁶ | 65536 | 100.00 | 58.29 | 4,135.30 | 21,066.86 | Master Builder |
 
 
 
