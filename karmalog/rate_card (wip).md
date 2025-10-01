@@ -1,4 +1,4 @@
-| Power of 2 | Value (Satoshi) | CAD (approx) | CHF (approx) | MXN (approx) | PKR (approx on 24/9/25) | Builder Level |
+| Power of 2 (2^x) | Value (Satoshi) | CAD (approx) | CHF (approx) | MXN (approx) | PKR (approx on 24/9/25) | Builder Level |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 11 | 2048 | 3.13 | 1.82 | 129.23 | 658.34 | Novice |
 | 12 | 4096 | 6.25 | 3.64 | 258.46 | 1,316.68 | Apprentice |
