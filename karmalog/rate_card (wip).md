@@ -1,3 +1,5 @@
+### **Value of an hour**
+
 | Power of 2 (2^x) | Value (Satoshi) | CAD (approx) | CHF (approx) | MXN (approx) | PKR (approx on 24/9/25) | Builder Level |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 11 | 2048 | 3.13 | 1.82 | 129.23 | 658.34 | Novice |
